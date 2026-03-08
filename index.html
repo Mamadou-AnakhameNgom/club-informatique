@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLUB INFORMATIQUE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <H1><strong>Club Informatique d'Ensup Afrique</strong></H1>
+    <nav>
+        <a href="index.php">Accueil</a>
+        <a href="inscription.php">s'inscrire</a>
+    </nav>
+    <h2>Presentation du club</h2>
+    <p>
+        Le club informatique est un espace d'apprentissage et de partage pour les étudiants passionnéspar la technologie
+    </p>
+<h2>Objectifs du club</h2>
+<ul>
+    <li>Former les etudiants en informatique</li>
+   <li>Realiser des projets technologiques</li>
+    <li>Partager des connaissances entre étudiants</li>
+</ul>
+<h2> Nos Activités</h2>
+<ul>
+    <li>Developpement web</li>
+    <p>
+        
+Le club propose des formations en développement web pour apprendre à créer
+des sites et des applications web. Les membres découvrent des technologies
+comme HTML, CSS, PHP et les bases de données. À travers des projets pratiques,
+les étudiants apprennent à concevoir des plateformes web modernes et
+fonctionnelles. Cette activité permet de développer des compétences très
+demandées dans le monde professionnel et encourage la créativité et
+l’innovation.
+</p>
+    
+    <li>Maintenance et Réseaux informatique</li>
+<p>
+Dans cette activité, les membres du club apprennent les bases des réseaux informatiques
+et de la maintenance des ordinateurs. Les étudiants découvrent comment configurer
+un réseau local, connecter plusieurs ordinateurs et résoudre les problèmes techniques.
+Cette formation permet aussi de comprendre le fonctionnement d’Internet et des
+équipements réseaux comme les routeurs et les switches. Ces compétences sont très
+recherchées dans le domaine de l’informatique et permettent aux étudiants de
+développer une bonne capacité de dépannage.
+</p>
+  <li>Langages de Programmation</li>
+
+<p>
+Le club informatique propose également des formations sur les langages
+de programmation afin d’aider les étudiants à développer leurs compétences
+en développement logiciel. Les membres apprennent les bases de la logique
+de programmation, la résolution de problèmes et la création de programmes
+informatiques.
+
+À travers des exercices pratiques et des projets, les étudiants découvrent
+comment écrire des programmes, comprendre les algorithmes et développer
+des applications simples. Cette activité permet aux membres d’acquérir
+une solide base en programmation et de se préparer aux métiers du
+développement informatique.
+</p>
+<li>Formation sur access</li>
+<p>
+Les membres du club apprennent à utiliser Microsoft Access pour créer
+et gérer des bases de données. Cette formation permet de comprendre
+comment organiser les informations, créer des tables, des requêtes,
+des formulaires et des rapports. Ces compétences sont très utiles
+dans la gestion des entreprises et dans le domaine de l’informatique
+de gestion.
+</p>
+<li>formation sur excel</li>
+<p>
+Le club propose également des formations sur Excel afin d'aider les
+étudiants à maîtriser les outils de gestion et d'analyse de données.
+Les membres apprennent à créer des tableaux, utiliser des formules,
+réaliser des graphiques et analyser des informations. Excel est un
+outil très utilisé dans les entreprises pour la gestion financière
+et l'organisation des données.
+</p>
+<li>Base de Données</li>
+
+<p>
+Dans cette activité, les étudiants apprennent les principes des bases
+de données et comment organiser efficacement les informations.
+Ils découvrent les concepts de tables, relations et requêtes
+et apprennent à utiliser des systèmes de gestion de bases de données
+pour stocker et manipuler les données. Cette compétence est essentielle
+pour les développeurs et les spécialistes en informatique de gestion.
+</p>
+</ul>
+<h2>Contact</h2>
+
+<p>
+Si vous souhaitez avoir plus d'informations sur le club informatique
+ou participer à nos activités, vous pouvez nous contacter :
+</p>
+
+<p><strong>Email:</strong>clubinformatique@gmail.com</p>
+<p><strong>Telephone<strong>784743125</p>
+<p><strong>Lieu de rencontre<strong>SIEGE</p>
+
+
+
+</body>
+</html>
